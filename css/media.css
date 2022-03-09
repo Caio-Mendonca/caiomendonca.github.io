@@ -8,6 +8,7 @@
   --main-text-color: #ffffff;
   --main-text-secondary-color: #80858b;
 }
+
 @media only screen and (max-width: 768px) {
   header#desktop > * {
     display: none;
@@ -167,5 +168,10 @@
 
   #menuToggle input:checked ~ ul {
     transform: none;
+  }
+}
+@media not all and (min-resolution:.001dpcm) { 
+  .not-iphone{
+    display: none !important;
   }
 }
