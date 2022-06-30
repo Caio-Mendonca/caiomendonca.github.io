@@ -7,7 +7,7 @@ Projeto pessoal do meu portfolio.
 Clone esse repositorio, logo em seguida abra o arquivo `index.html`
 
 ```bash
-git clone https://github.com/Ianito/ianito.github.io
+git clone 
 ```
 
 ## Tecnologias
@@ -16,8 +16,6 @@ git clone https://github.com/Ianito/ianito.github.io
 - CSS
 - JS
 
-## Desenvolvedores
-* [ianito](https://github.com/ianito)
-* [Lavínia Melo](https://github.com/lavininhamelo)
+
 
 
