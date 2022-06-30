@@ -7,7 +7,7 @@ Projeto pessoal do meu portfolio.
 Clone esse repositorio, logo em seguida abra o arquivo `index.html`
 
 ```bash
-git clone 
+git clone https://github.com/Caio-Mendonca/caio-mendonca.github.io.git
 ```
 
 ## Tecnologias
